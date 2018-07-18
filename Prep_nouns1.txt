@@ -1,0 +1,5 @@
+chair right bed
+table
+table on table left bed
+laptop
+laptop above table
